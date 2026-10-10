@@ -1,0 +1,22 @@
+{
+  "name": "Ahmed Shahin ADV CRM",
+  "short_name": "Shahin CRM",
+  "description": "لوحة تحكم إدارة الطلبات والأرباح واستوديو الإعلانات",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#C8102E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
